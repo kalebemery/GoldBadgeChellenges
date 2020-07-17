@@ -1,0 +1,16 @@
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\obj\Debug\netcoreapp3.1\01_KomodoCafe_Console.csprojAssemblyReference.cache
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\obj\Debug\netcoreapp3.1\01_KomodoCafe_Console.AssemblyInfoInputs.cache
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\obj\Debug\netcoreapp3.1\01_KomodoCafe_Console.AssemblyInfo.cs
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\obj\Debug\netcoreapp3.1\01_KomodoCafe_Console.csproj.CoreCompileInputs.cache
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\bin\Debug\netcoreapp3.1\01_KomodoCafe_Console.exe
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\bin\Debug\netcoreapp3.1\01_KomodoCafe_Console.deps.json
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\bin\Debug\netcoreapp3.1\01_KomodoCafe_Console.runtimeconfig.json
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\bin\Debug\netcoreapp3.1\01_KomodoCafe_Console.runtimeconfig.dev.json
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\bin\Debug\netcoreapp3.1\01_KomodoCafe_Console.dll
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\bin\Debug\netcoreapp3.1\01_KomodoCafe_Console.pdb
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\bin\Debug\netcoreapp3.1\01_CafeContent.dll
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\bin\Debug\netcoreapp3.1\01_CafeContent.pdb
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\obj\Debug\netcoreapp3.1\01_KomodoCafe_Console.csproj.CopyComplete
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\obj\Debug\netcoreapp3.1\01_KomodoCafe_Console.dll
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\obj\Debug\netcoreapp3.1\01_KomodoCafe_Console.pdb
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_KomodoCafe_Console\obj\Debug\netcoreapp3.1\01_KomodoCafe_Console.genruntimeconfig.cache

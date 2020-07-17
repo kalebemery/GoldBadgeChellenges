@@ -1,0 +1,6 @@
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_CafeContent\obj\Debug\01_KomodaCafe.csprojAssemblyReference.cache
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_CafeContent\obj\Debug\01_KomodaCafe.csproj.CoreCompileInputs.cache
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_CafeContent\bin\Debug\01_CafeContent.dll
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_CafeContent\bin\Debug\01_CafeContent.pdb
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_CafeContent\obj\Debug\01_CafeContent.dll
+C:\Eleven Fifty Academy\ConsoleAppChallenges\01_CafeContent\01_CafeContent\obj\Debug\01_CafeContent.pdb

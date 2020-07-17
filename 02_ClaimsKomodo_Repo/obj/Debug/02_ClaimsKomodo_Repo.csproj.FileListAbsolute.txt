@@ -1,0 +1,6 @@
+C:\Eleven Fifty Academy\ConsoleAppChallenges\02_ClaimsKomodo_Repo\bin\Debug\02_ClaimsKomodo_Repo.dll
+C:\Eleven Fifty Academy\ConsoleAppChallenges\02_ClaimsKomodo_Repo\bin\Debug\02_ClaimsKomodo_Repo.pdb
+C:\Eleven Fifty Academy\ConsoleAppChallenges\02_ClaimsKomodo_Repo\obj\Debug\02_ClaimsKomodo_Repo.csprojAssemblyReference.cache
+C:\Eleven Fifty Academy\ConsoleAppChallenges\02_ClaimsKomodo_Repo\obj\Debug\02_ClaimsKomodo_Repo.csproj.CoreCompileInputs.cache
+C:\Eleven Fifty Academy\ConsoleAppChallenges\02_ClaimsKomodo_Repo\obj\Debug\02_ClaimsKomodo_Repo.dll
+C:\Eleven Fifty Academy\ConsoleAppChallenges\02_ClaimsKomodo_Repo\obj\Debug\02_ClaimsKomodo_Repo.pdb

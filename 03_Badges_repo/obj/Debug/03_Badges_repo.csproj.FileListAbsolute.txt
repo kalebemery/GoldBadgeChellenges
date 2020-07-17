@@ -1,0 +1,6 @@
+C:\Eleven Fifty Academy\ConsoleAppChallenges\03_Badges_repo\bin\Debug\03_Badges_repo.dll
+C:\Eleven Fifty Academy\ConsoleAppChallenges\03_Badges_repo\bin\Debug\03_Badges_repo.pdb
+C:\Eleven Fifty Academy\ConsoleAppChallenges\03_Badges_repo\obj\Debug\03_Badges_repo.csprojAssemblyReference.cache
+C:\Eleven Fifty Academy\ConsoleAppChallenges\03_Badges_repo\obj\Debug\03_Badges_repo.csproj.CoreCompileInputs.cache
+C:\Eleven Fifty Academy\ConsoleAppChallenges\03_Badges_repo\obj\Debug\03_Badges_repo.dll
+C:\Eleven Fifty Academy\ConsoleAppChallenges\03_Badges_repo\obj\Debug\03_Badges_repo.pdb
