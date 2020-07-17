@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\01_CafeContent",
-    "\\02_ClaimsKomodo_Repo"
+    "\\01_KomodoCafe_Console",
+    "\\01_KomodoTests",
+    "\\03_Badges_Console"
   ],
-  "SelectedNode": "\\01_CafeContent\\ConsoleAppChallenges.sln",
+  "SelectedNode": "\\ConsoleAppChallenges.sln",
   "PreviewInSolutionExplorer": false
 }
